@@ -1,5 +1,5 @@
 - 👋 Hi, I’m yasiru perera
-- 👀 I’m interested in blockchain
+- 👀 I’m interested in computer vision 
 - 🌱 I’m currently learning in plymouth university
 - 💞️ I’m looking to collaborate on blockchain technology
 - 📫 How to reach me by email and my linkedin account
